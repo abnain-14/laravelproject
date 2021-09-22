@@ -1,0 +1,96 @@
+
+#navbarNav a{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none ;
+    font-weight: 10%;
+    font-size: 18px;
+    color: rgb(180, 103, 103);
+  }
+  .log{
+    border: 1px solid rgb(107, 138, 231);
+    border-radius: 15px;
+    margin-left: 65%;
+    padding: 5px;
+  }
+  .log:hover{
+    background-color: rgb(146, 199, 206);
+  }
+  #navbarNav{
+    margin-left: 1%;
+  }
+  #navbarNav a:hover{
+    color:rgb(114, 0, 0);
+  }
+  #brand{
+    color:rgb(23, 133, 127);
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Rubik',sans-serif;
+    margin-left: 20px;
+  }
+  #brand:hover{
+    text-decoration: none;
+    color: rgb(41, 93, 76);
+  }
+  .current{
+      color: rgb(8, 8, 8);
+  }
+  #bgimg{
+      background-image: url('images/bg.jpg');
+      background-size: cover;
+      height: 85%;
+      width: 100%;
+  }
+  
+.loghome{
+    border: 1px solid rgb(107, 138, 231);
+    border-radius: 15px;
+    text-decoration: none;
+    color: rgb(27, 10, 126);
+    padding: 10px;
+  }
+  .loghome:hover{
+    background-color: rgb(146, 199, 206);
+    text-decoration: none;
+    color: maroon;
+  }
+  .big{
+      font-size: large;
+      font-weight: bold;
+  }
+  
+#cont{
+    margin: auto;
+    border: 1px solid wheat;
+    padding: 25px;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(240, 235, 239);
+  }
+  #address{
+    margin-left: 8%;
+    margin-top: 7%;
+    margin-right: 8%;
+  }
+  #condetails{
+    margin-bottom: 15%;
+  }
+  .contdetails{
+    margin-top: 3%;
+  }
+  #btn{
+    width: 100%;
+    background-color: rgb(42, 166, 182);
+    margin-top: 10px;
+}
+.login, .reg{
+    width: 27%;
+    margin: auto;
+    border: 1px solid wheat;
+    padding: 30px;
+    background-color: rgb(240, 235, 239);
+    text-align: left;
+    margin-top: 70px;
+}
